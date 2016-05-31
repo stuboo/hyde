@@ -3,28 +3,25 @@ layout: page
 title: About
 ---
 
-<p class="message">
+<p class="message" style="display:none;">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm a practicing physician currently undergoing subspecialty training in Female Pelvic Medicine and Reconstructive Surgery at the University of Louisville in Louisville, Kentucky. To learn more about the subspecialty, I invite you to visit [VoicesForPFD.org](http://www.voicesforpfd.org/) or [AUGS.org](http://augs.org). 
 
-There are currently two themes built on Poole:
+Much of this site reflects my hobbies and interests. Like you, I have hobbies and interests not because I'm good at them, but because they are fun. I love to learn and want to get better, so your feedback is welcomed, but you probably won't find perfection on anything written here. In short...this site and its contents are a toy. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+A playground. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+A sandbox. 
 
-## Setup
+You get the picture.
 
-Some fun facts about the setup of this project include:
+## This site exists:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+1. For the occasional blog post.
+2. For sharing and discussing projects I'm working on or considering.
+3. For getting better at [git](https://git-scm.com/) and [markdown](https://daringfireball.net/projects/markdown/).
+4. To serve as a landing place for everyone who sees my email address and says, "You have your own domain name?"
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Thanks for stopping by!
