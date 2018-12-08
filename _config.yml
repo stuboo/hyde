@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         redcarpet
 highlighter:      rouge
+remote-theme: nandomoreirame/simplest
 
 # Permalinks
 permalink:        pretty
