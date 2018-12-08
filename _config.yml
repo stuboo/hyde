@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-remote-theme: nandomoreirame/simplest
+remote_theme: nandomoreirame/simplest
 
 # Permalinks
 permalink:        pretty
