@@ -30,3 +30,6 @@ gems:
   - redcarpet
   - jekyll-gist
   - pygments.rb
+  
+plugins:
+  - jekyll-include-cache
